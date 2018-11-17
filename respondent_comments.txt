@@ -1,0 +1,19 @@
+-Perhaps a legend would help better comprehension of the numbers, clusters and nodes. The graph could also be color coded to help comprehension. 
+-Even though the visualization of the decision tree is really simple and not really well designed, it is still easy to read it and make a decision based on it
+-next time better quality of attachment and better design, please
+-Maybe everything in whole nouns
+-I think it was quite easy to understand if you know what it was about :D 
+-Name of the node could be more clearer. Shorts for "international" as "intl" took a while to understand.
+-What the numbers stand for
+-It can be difficult for people to understand if he or she is not familiar with this domain. 
+-List of numbers should visible with following questions. 
+-The decision tree could look better to underline the information in it
+-I would like to add "I dont know" answer
+-czech?
+-Heatmap should also contain numbers
+-I guess it depends on how experienced people answering this survey are with clustering and heat maps.  I had a hard time with identifying the clusters people should belong to..
+-I don't fully understand this topic so I don't know
+-I would like the explanation at the beginning to be deeper when it comes to the topic of identifying which cluster does the instance belong to when we have more attributes to keep in mind.
+-learn to spell pls
+-Yes, but i can not remember it.
+-interesting survey
